@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+/*li:hover button {*/
+/*  font-weight:bold;*/
+/*}*/
+
+.square--winning {
+  background-color: yellow;
+}
